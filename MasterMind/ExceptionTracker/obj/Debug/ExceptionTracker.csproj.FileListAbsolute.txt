@@ -1,0 +1,6 @@
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\bin\Debug\ExceptionTracker.dll
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\bin\Debug\ExceptionTracker.pdb
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\obj\Debug\ExceptionTracker.csprojAssemblyReference.cache
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\obj\Debug\ExceptionTracker.csproj.CoreCompileInputs.cache
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\obj\Debug\ExceptionTracker.dll
+C:\Users\AlexKraus\source\repos\MasterMind\ExceptionTracker\obj\Debug\ExceptionTracker.pdb

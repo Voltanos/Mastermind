@@ -1,0 +1,12 @@
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\ExceptionTracker.dll
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\MasterMindLibrary.dll
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\ExceptionTracker.pdb
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\bin\Debug\MasterMindLibrary.pdb
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CopyComplete
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\AlexKraus\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
